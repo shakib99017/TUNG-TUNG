@@ -36,9 +36,9 @@ module.exports = {
 
 ╰━━━━━ 🔗 Cᴏɴᴛᴀᴄᴛ ━━━━━━╯
 
- 📘 Fʙ  ➜ SHAKIB KHAN
- 💬 Tɢ  ➜ 01322418218
- 📞 Wᴀ  ➜ 01322418218`;
+ 📘 Fʙ  ➜ https://www.facebook.com/share/1XrLQpF1iu/
+ 💬 wh➜ 01322418218
+ 📞Call➜ 01322418218`;
 
     const cacheDir = path.join(__dirname, "cache");
     const imgPath = path.join(cacheDir, "owner.jpg");
