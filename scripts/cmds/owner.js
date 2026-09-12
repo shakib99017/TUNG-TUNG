@@ -20,11 +20,11 @@ module.exports = {
 `╭━━━━ 👑 Oᴡɴᴇʀ Iɴғᴏ ━━━━╮
 
  🏷 Nᴀᴍᴇ
-    └─ Mᴏʜᴀᴍᴍᴀᴅ Mᴀʀᴜғ 👑
+    └─ SHAKIB BHAIYA👑
  🎀 Nɪᴄᴋ
-    └─ Mᴀʀᴜғ 🎀
+    └─ SHAKIB 🎀
  🎂 Aɢᴇ
-    └─ 𝟷𝟼+ 😘
+    └─ 19+ 😘
  💞 Rᴇʟᴀᴛɪᴏɴ
     └─ Sɪɴɢʟᴇ 🫶
  💼 Wᴏʀᴋ
@@ -32,17 +32,17 @@ module.exports = {
  🎓 Eᴅᴜᴄᴀᴛɪᴏɴ
     └─ Sᴇᴄʀᴇᴛ 🤫
  📍 Lᴏᴄᴀᴛɪᴏɴ
-    └─ Kᴜʀɪɢʀᴀᴍ, Kᴀᴄᴀᴋᴀᴛᴀ
+    └─ BOGURA,SIBGONJO
 
 ╰━━━━━ 🔗 Cᴏɴᴛᴀᴄᴛ ━━━━━━╯
 
- 📘 Fʙ  ➜ fb.com/itzmaruf1718
- 💬 Tɢ  ➜ t.me/maruf_1718
- 📞 Wᴀ  ➜ wa.me/maruf_1718`;
+ 📘 Fʙ  ➜ SHAKIB KHAN
+ 💬 Tɢ  ➜ 01322418218
+ 📞 Wᴀ  ➜ 01322418218`;
 
     const cacheDir = path.join(__dirname, "cache");
     const imgPath = path.join(cacheDir, "owner.jpg");
-    const imgLink = "https://i.ibb.co/4ZJpvd8v/1c7596023722.jpg";
+    const imgLink = "https://i.ibb.co/DHGr4Sr1/87797f91b308.jpg";
 
     try {
       await fs.ensureDir(cacheDir);
