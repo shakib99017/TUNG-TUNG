@@ -28,8 +28,8 @@ exports.onChat = async function ({ event, api }) {
 
  const msg =
 `╭━━━━━━━━━━━━━━━━━━━━╮
-┃ 🤖 𝐁𝐎𝐓: 𝐌𝐀𝐑𝐔𝐅'𝐒 𝐁𝐎𝐓
-┃ 👑 𝐎𝐖𝐍𝐄𝐑: 𝐌𝐀𝐑𝐔𝐅
+┃ 🤖 𝐁𝐎𝐓: SHAKIB BHAIYA
+┃ 👑 𝐎𝐖𝐍𝐄𝐑: SHAKIB
 ┃ 🔐 𝐅𝐎𝐑𝐊: 𝐏𝐔𝐁𝐋𝐈𝐂
 ╰━━━━━━━━━━━━━━━━━━━━╯
 
