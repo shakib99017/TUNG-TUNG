@@ -61,8 +61,8 @@ async function sendInfo(api, message, event, config) {
 
  const msg = `━━━━━✦ 𝐁𝐨𝐓 𝐈𝐧𝐟𝐨 ✦━━━━━━
 
-🤖 𝐍𝐚𝐦𝐞 » 𝐌𝐚𝐑𝐮𝐅'𝐬 𝐁𝐨𝐓 💫🪽
-👑 𝐎𝐰𝐧𝐞𝐫 » 𝐌𝐚𝐑𝐮𝐅
+🤖 𝐍𝐚𝐦𝐞 » SHAKIB CHAT BOT💫🪽
+👑 𝐎𝐰𝐧𝐞𝐫 » SHAKIB
 ⏰ 𝐔𝐩𝐭𝐢𝐦𝐞 » ${runtime}
 ⚡ 𝐏𝐫𝐞𝐟𝐢𝐱 » ${prefix}
 
