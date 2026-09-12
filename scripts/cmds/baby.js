@@ -1,7 +1,7 @@
 module.exports = {
  config: {
  name: "baby",
- aliases: ["maya", "baby", "jannat", "xan", "oi", "ishrat", "জান্নাত"],
+ aliases: ["maya", "baby", "jannat", "xan", "oi", "shakib", "জান্নাত"],
  version: "2.2.1",
  author: "𝐌𝐚𝐑𝐮𝐅",
  description: "Mood based cute reply",
